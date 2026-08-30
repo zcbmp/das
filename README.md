@@ -9,6 +9,4 @@
 5. 📋一键复制链接+提取码到剪贴板
 6. 🖥️GUI图形界面，开箱即用
 
-## 📦依赖安装
-```bash
-pip install opencv-python numpy PySimpleGUI pyperclip pillow
+
